@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: 
    - e-mail - chul070721@naver.com
-   - Discord - <a href>click here</a>
+   - Discord - <a href="https://discord.gg/WxjQaPK">click here</a>
 
   <div align=center>
 	
