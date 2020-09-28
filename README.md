@@ -1,20 +1,25 @@
 ### int
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
+   - JavaScript
+   - node JS
+   - HTML
+   - CSS
+   - Bot
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
+   - C
+   - Python
+   - Linux
+   - VHDL
+   - verilog
+   - MySQL
+   - node JS and the modules
+   - React
 
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
+- 📫 How to reach me: 
+   - e-mail - chul070721@naver.com
+   - Discord - <a href>click here</a>
 
   <div align=center>
 	
