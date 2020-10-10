@@ -6,16 +6,14 @@
    - HTML
    - CSS
    - Bot
+   - MySQL
+   - React
 
 - 🌱 I’m currently learning 
    - C
    - Python
-   - Linux
    - VHDL
    - verilog
-   - MySQL
-   - node JS and the modules
-   - React
 
 - 📫 How to reach me: 
    - e-mail - chul070721@naver.com
