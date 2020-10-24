@@ -1,5 +1,7 @@
 ### int
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/chul0721/github-readme-stats)
+
 - 🔭 I’m currently Using
    - JavaScript
    - node JS
