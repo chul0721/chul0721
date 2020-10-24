@@ -1,5 +1,6 @@
-### int
+<div align="center">
 <img src="./int.jpeg" alt="">
+<div>
 [![int's github stats](https://github-readme-stats.vercel.app/api?username=chul0721)](https://github.com/chul0721/github-readme-stats&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chul0721)](https://github.com/chul0721/github-readme-stats&theme=highcontrast)
