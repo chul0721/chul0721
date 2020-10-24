@@ -1,6 +1,6 @@
 ### int
 
-[![int's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/chul0721/github-readme-stats)
+[![int's github stats](https://github-readme-stats.vercel.app/api?username=chul0721)](https://github.com/chul0721/github-readme-stats)
 
 - 🔭 I’m currently Using
    - JavaScript
