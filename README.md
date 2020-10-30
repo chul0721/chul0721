@@ -7,21 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chul0721)](https://github.com/chul0721/github-readme-stats&theme=synthwave)
 
-- 🔭 I’m currently Using
-   - JavaScript
-   - node JS
-   - HTML
-   - CSS
-   - Bot
-   - MySQL
-   - React
-
-- 🌱 I’m currently learning 
-   - C
-   - Python
-   - VHDL
-   - verilog
-
 - 📫 How to reach me: 
    - Discord - <a href="https://discord.gg/WxjQaPK">click here</a>
 <br>
