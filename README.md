@@ -1,8 +1,4 @@
 ### int
-팔로우 하면 안 잡아먹음
-<div align="center">
-<img src="./int.jpeg" alt="">
-</div>
 
 [![int's github stats](https://github-readme-stats.vercel.app/api?username=chul0721)](https://github.com/chul0721/github-readme-stats&show_icons=true&theme=synthwave)
 
