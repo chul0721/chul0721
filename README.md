@@ -1,1 +1,1 @@
-리드미 공사중
+Discord : https://discord.gg/nKaM6RrN92
