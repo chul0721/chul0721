@@ -39,15 +39,9 @@
     <img src="https://github.com/chul0721/chul0721/blob/master/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
 </h1>
-Discord : https://discord.gg/nKaM6RrN92/
-Twitter: https://twiter.com/chul0721/
-Instagram: https://instagram.com/chul_0721/
-
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="Github Arctic Vault Contributor" src = "https://github.com/chul0721/chul0721/blob/master/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
+Discord : https://discord.gg/nKaM6RrN92/ <br />
+Twitter: https://twiter.com/chul0721/ <br />
+Instagram: https://instagram.com/chul_0721/ <br />
 
 
 <div align="center">
