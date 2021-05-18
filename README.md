@@ -15,7 +15,7 @@
 </a>
 
 - 🔭 I’m currently working on **TypeScript, Node.js, JavaScript, Next/React, and other Web Developments**
-- 🌱 I’m currently learning **C, Assembly for studying pwn**
+- 🌱 I’m currently learning **Rust for team projects, and C, Assembly for studying pwn**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **Internships**
 - 💬 Ask me about Anything [here](https://github.com/chul0721/chul0721/issues/1)! I am happy to help.
