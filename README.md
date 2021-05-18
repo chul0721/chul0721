@@ -34,7 +34,7 @@
 <!--END_SECTION:waka-->
 
 <h1>
-  Connect With Me 
+  Contact Me 
   <a target="_blank">
     <img src="https://github.com/chul0721/chul0721/blob/master/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
