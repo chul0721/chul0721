@@ -21,6 +21,7 @@
 - 💬 Ask me about Anything [here](https://github.com/chul0721/chul0721/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **null**
+- https://www.patreon.com/chul
 
 <br/>
 <br/>
