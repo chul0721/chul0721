@@ -14,7 +14,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/chul0721/chul0721/blob/master/programming.gif">
 </a>
 
-- 🔭 I’m currently working on **TypeScript, Node.js, JavaScript, Next/React, and other Web Developments**
+- 🔭 I’m currently working on **TypeScript, Node.js, JavaScript, Next/React, Golang, and other Web Developments**
 - 🌱 I’m currently learning **Rust for team projects, and C, Assembly for studying pwn**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **Internships**
@@ -60,4 +60,4 @@ Instagram: https://instagram.com/chul_0721/ <br />
 
 **Credits**: [chul0721](https://github.com/chul0721/)
 
-**Last Edited**: 05/18/2021
+**Last Edited**: 06/07/2021
