@@ -41,7 +41,7 @@
   </a>
 </h1>
 Discord : https://discord.gg/nKaM6RrN92/ <br />
-Twitter: https://twiter.com/chul0721/ <br />
+Twitter: https://twitter.com/chul0721/ <br />
 Instagram: https://instagram.com/chul_0721/ <br />
 
 
