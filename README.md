@@ -33,6 +33,7 @@
 </p>
 
 [![chul0721's GitHub stats](https://github-readme-stats.vercel.app/api?username=chul0721)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chul0721)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
@@ -62,4 +63,4 @@ Instagram: https://instagram.com/chul_0721/ <br />
 
 **Credits**: [chul0721](https://github.com/chul0721/)
 
-**Last Edited**: 06/07/2021
+**Last Edited**: 08/14/2021
