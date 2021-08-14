@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/github/stars/chul0721?label=Stars" alt="Total Stars">
 </p>
 
+[![chul0721's GitHub stats](https://github-readme-stats.vercel.app/api?username=chul0721)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--END_SECTION:waka-->
 
 <h1>
