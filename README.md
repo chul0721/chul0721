@@ -23,7 +23,7 @@
 - 💬 Ask me about Anything [here](https://github.com/chul0721/chul0721/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **null**
-- https://www.patreon.com/chul
+- Support me! => (신한) 110-244-713428
 
 <br/>
 <br/>
@@ -66,4 +66,4 @@ Instagram: https://instagram.com/chul_0721/ <br />
 
 **Credits**: [chul0721](https://github.com/chul0721/)
 
-**Last Edited**: 2021/10/4
+**Last Edited**: 2021/11/06
