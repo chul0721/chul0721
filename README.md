@@ -47,7 +47,7 @@
   </a>
 </h1>
 <a target="_blank" href="https://twitter.com/chul0721">Twitter</a> <br />
-<a target="_blank" href="https://instagram.com/bottle__iron">Instagram</a> <br />
+<a target="_blank" href="https://instagram.com/bottle___iron">Instagram</a> <br />
 
 <div align="center">
 
