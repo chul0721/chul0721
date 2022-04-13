@@ -46,8 +46,8 @@
     <img src="https://github.com/chul0721/chul0721/blob/master/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
 </h1>
-[Twitter](https://twitter.com/chul0721/) <br />
-[Instagram](https://instagram.com/bottle_iron/) <br />
+[Twitter](https://twitter.com/chul0721) <br />
+[Instagram](https://instagram.com/bottle_iron) <br />
 
 
 <div align="center">
