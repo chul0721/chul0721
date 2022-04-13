@@ -16,14 +16,10 @@
 
 **ByungChul Kim** (a.k.a **__int**)
 
-- 🔭 I’m currently working on **TypeScript, Node.js, JavaScript, Next/React, Golang, and other Web Developments**
-- 🌱 I’m currently learning **Rust for team projects, and C, Assembly for studying pwn**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for help with **Internships**
+- 🔭 I’m currently working & collaborating on **Web Development**
 - 💬 Ask me about Anything [here](https://github.com/chul0721/chul0721/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
-- ⚡ Fun fact : **null**
-- Support me! => (신한) 110-244-713428
+- 🙋 Support me : (신한) 110-244-713428
 
 <br/>
 <br/>
@@ -46,8 +42,8 @@
     <img src="https://github.com/chul0721/chul0721/blob/master/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
 </h1>
-Twitter: https://twitter.com/chul0721/ <br />
-Instagram: https://instagram.com/chul_0721/ <br />
+[Twitter](https://twitter.com/chul0721/)  
+[Instagram](https://instagram.com/bottle_iron/)
 
 
 <div align="center">
@@ -65,4 +61,4 @@ Instagram: https://instagram.com/chul_0721/ <br />
 
 **Credits**: [chul0721](https://github.com/chul0721/)
 
-**Last Edited**: 2021/11/06
+**Last Edited**: 2021/04/13
