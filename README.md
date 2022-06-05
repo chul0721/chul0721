@@ -1,11 +1,5 @@
 <h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/chul0721/chul0721/blob/master/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
   Hello_World
-  <a target="_blank">
-    <img src="https://github.com/chul0721/chul0721/blob/master/Hi.gif" width="40px" />
-  </a>
 </h1>
 
 <br/>
