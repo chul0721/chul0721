@@ -8,7 +8,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/chul0721/chul0721/blob/master/programming.gif">
 </a>
 
-**ByungChul Kim** (a.k.a **__int**)
+**ByungChul Kim** (a.k.a **chul0721**)
 
 - 🔭 I’m currently working & collaborating on **Web Development**
 - 💬 Ask me about Anything [here](https://github.com/chul0721/chul0721/issues/1)! I am happy to help.
