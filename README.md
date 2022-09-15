@@ -11,7 +11,7 @@
 **ByungChul Kim** (a.k.a **chul0721**)
 
 - 🔭 I’m currently working & collaborating on **Web Development**
-- 💬 Ask me about Anything [here](https://github.com/chul0721/chul0721/issues/1)! I am happy to help.
+- 💬 Ask me about Anything [here](https://github.com/chul0721/chul0721/issues/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 - 🙋 Support me : (신한) 110-244-713428
 
