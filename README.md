@@ -24,16 +24,6 @@
   <img src="https://img.shields.io/github/stars/chul0721?label=Stars" alt="Total Stars">
 </p>
 
-<div align="center">
- 
-[![chul0721's GitHub stats](https://github-readme-stats.vercel.app/api?username=chul0721)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chul0721)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<!--END_SECTION:waka-->
-
 <h1>
   Contact Me 
   <a target="_blank">
@@ -43,19 +33,6 @@
 <a target="_blank" href="https://twitter.com/chul0721">Twitter</a> <br />
 <a target="_blank" href="https://instagram.com/bottle___iron">Instagram</a> <br />
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
 #
 
 ![footer](https://github.com/chul0721/chul0721/blob/master/footer.png)
-
-
-----
-
-**Credits**: [chul0721](https://github.com/chul0721/)
-
-**Last Edited**: 2021/04/13
