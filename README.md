@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 - 😄 Pronouns : **He/Him/His**
-- 🙋 Support me : (신한) 110-244-713428
+- 🙋 (Support me)[https://toss.me/%EC%9D%B8%ED%8A%B80721]
 
 ## Contact
 
