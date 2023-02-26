@@ -12,7 +12,7 @@
 ## Contact
 
 - <a target="_blank" href="https://twitter.com/chul0721">Twitter</a> <br />
-- <a target="_blank" href="https://instagram.com/bottle___iron">Instagram</a> <br />
+- <a target="_blank" href="https://instagram.com/by3chul">Instagram</a> <br />
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/chul0721" alt="profile views"> •  
