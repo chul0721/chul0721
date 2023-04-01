@@ -9,11 +9,6 @@
 - 😄 Pronouns : **He/Him/His**
 - 🙋 Support me: [https://toss.me/인트0721](https://toss.me/%EC%9D%B8%ED%8A%B80721)
 
-## Contact
-
-- <a target="_blank" href="https://twitter.com/chul0721">Twitter</a> <br />
-- <a target="_blank" href="https://instagram.com/bottle___iron">Instagram</a> <br />
-
 <p align="center">
   <img src="https://gpvc.arturio.dev/chul0721" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/chul0721?label=Followers&style=social"> •   
