@@ -1,6 +1,6 @@
 
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/chul0721/chul0721/blob/master/programming.gif">
+<img align="right" height="220" width="400" alt="GIF" src="https://github.com/chul0721/chul0721/blob/master/programming.gif">
 
 # **Welcome 👋**
 
