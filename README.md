@@ -6,7 +6,8 @@
 
 - 💻 I’m currently working on **Web Development**
 - 🔭 Interested in **Machine Learning** and **Data science**
-- 😄 Pronouns : **He/Him/His**
+- Feel free to DM me by Discord [chul0721#8165](https://discord.com/users/694131960125325374)
+- 재미있고 흥미로운 프로젝트를 같이하기 원하신다면 디스코드로 언제든 편하게 연락주세요!
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/chul0721" alt="profile views"> •  
