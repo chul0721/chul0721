@@ -9,7 +9,7 @@
 - Feel free to DM me (Discord: [chul0721#8165](https://discord.com/users/694131960125325374))  
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=chul0721&color=brightgreen) •  
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=chul0721&color=brightgreen"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/chul0721?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/chul0721?label=Stars" alt="Total Stars">
 </p>
